@@ -60,4 +60,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: ваш-логин-на-docker-hub/ваш-репозиторий-на-docker-hub:latest 
+          tags: avnikitenko/infra_actions:latest 
